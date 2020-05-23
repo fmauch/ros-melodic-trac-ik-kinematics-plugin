@@ -1,7 +1,7 @@
 # Script generated with create_pkgbuild.py
 # For more information: https://github.com/ros-melodic-arch/ros-build-tools-py3
 pkgdesc="ROS - A MoveIt! Kinematics plugin using TRAC-IK."
-url='http://www.ros.org/'
+url='http://wiki.ros.org/trac_ik_kinematics_plugin'
 
 pkgname='ros-melodic-trac-ik-kinematics-plugin'
 pkgver='1.5.1'
